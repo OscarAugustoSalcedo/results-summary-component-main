@@ -38,6 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  box-shadow: ;
 }
 .card__result {
   background: linear-gradient(
@@ -185,6 +186,7 @@ body {
     height: 490px;
     border-radius: 30px;
     overflow: hidden;
+    box-shadow: 10px 5px 15px rgba(0, 0, 0, 0.104);
   }
   .card__result {
     border-radius: 30px;
